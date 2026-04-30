@@ -81,7 +81,7 @@ Database (MongoDB)
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/Manojyadav31/Collaborative_workspace_
+git clone https://github.com/Manojyadav31/Collaborative_workspace
 cd Collaborative-Workspace
 
 ### 2️⃣ Install Dependencies
